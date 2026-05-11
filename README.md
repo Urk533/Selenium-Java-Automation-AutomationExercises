@@ -1,7 +1,7 @@
 # Demoblaze Selenium Automation Project
 
 ## 📌 Overview
-This project performs **manual, automation, and API testing** on the Demoblaze website to ensure functionality, performance, and reliability.
+This project performs **manual and automation** on the Demoblaze website to ensure functionality, performance, and reliability.
 
 ---
 
@@ -40,11 +40,11 @@ This project performs **manual, automation, and API testing** on the Demoblaze w
 ## 📊 Deliverables
 - Test Plan  
 - Test Cases & Scenarios
-- Bug Report
+- Bug Reports  
+- RTM (Requirement Traceability Matrix)  
+- Test Execution Reports
+
 
 ## 👨‍💻 Author
 **Utsav Raj Kharel**  
 QA Tester | Selenium | Java | API Testing | Automation Enthusiast  
-- Bug Reports  
-- RTM (Requirement Traceability Matrix)  
-- Test Execution Reports  
