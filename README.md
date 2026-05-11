@@ -1,5 +1,10 @@
 # ⚙️ Auotmation Exercises Selenium Automation Project
 
+## 👨‍💻 Author
+**Utsav Raj Kharel**  
+QA Tester | Selenium | Java | Automation Framework Developer  
+
+---
 
 # 📌 Project Overview
 
@@ -56,6 +61,4 @@ src/
  ├── reports/           → Extent Reports Output
  ├── logs/              → Execution Logs
 
-## 👨‍💻 Author
-**Utsav Raj Kharel**  
-QA Tester | Selenium | Java | Automation Framework Developer  
+---
